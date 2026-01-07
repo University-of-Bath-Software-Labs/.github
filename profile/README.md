@@ -41,7 +41,8 @@ These may include:
 Students and researchers may **download and use** these public resources where relevant to their work.
 
 ### **Private Repositories**
-Private repositories are restricted to the technical team and authorised collaborators.  
+Private repositories are restricted to the technical team and authorised collaborators.
+
 Access is granted only where necessary.
 
 ---
@@ -63,7 +64,7 @@ you can contact us in the following ways:
 
 ### **Submit a TopDesk ticket**  
 Find us on TopDesk by navigating to:
-**HOME → Engineering and Design → Engineering Tech Request Form**
+**HOME → Engineering and Design → Engineering Tech Request Form** </br>
 Then select: **Faculty Service – Electronics – Software Labs** as your area of support.
 
 We are always happy to help with software and instrumentation needs.
@@ -81,7 +82,7 @@ University of Bath
 ---
 
 ## Information Security & Compliance
-All work within this organisation follows University of Bath policies/
+All work within this organisation follows University of Bath policies
 
 We do **not** store sensitive, personal, or confidential research data in public repositories.
 
