@@ -15,7 +15,7 @@ A Faculty technical service specialising in electronics, instrumentation, and so
 ## Who We Are
 The **Electronics & Software Labs** are part of the Faculty of Engineering & Design and provide specialist technical services to support teaching, research, and prototype development across the Faculty.
 
-We are located in **4 East, Room 1.35 (4E 1.35)**.
+We are located in **4 East, Room 1.35 (4E1.35)**.
 
 Our team combines expertise in:
 
@@ -60,7 +60,7 @@ If you need:
 you can contact us in the following ways:
 
 ### **Visit us in person**  
-**4 East, Room 1.35 (4E 1.35)**
+**4 East, Room 1.35 (4E1.35)**
 
 ### **Submit a TopDesk ticket**  
 Find us on TopDesk by navigating to:
@@ -77,7 +77,7 @@ Staff and authorised collaborators may contribute to private internal repositori
 **Electronics & Software Labs**  
 Faculty of Engineering & Design  
 University of Bath  
-4 East, Room 1.35 (4E 1.35)  
+4 East, Room 1.35 (4E1.35)  
 
 ---
 
