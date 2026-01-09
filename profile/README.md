@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="400" height="1400" alt="Uni of Bath logo (slate)" src="https://github.com/user-attachments/assets/1675b6a9-338c-4e1d-b4c7-81f966c90d93" />
+  <img width="400" alt="Uni of Bath logo (slate)" src="https://github.com/user-attachments/assets/1675b6a9-338c-4e1d-b4c7-81f966c90d93" />
 
 </p>
 
@@ -82,12 +82,14 @@ University of Bath
 ---
 
 ## Information Security & Compliance
-All work within this organisation follows University of Bath policies
 
-We do **not** store sensitive, personal, or confidential research data in public repositories.
+All repositories within this organisation follow University of Bath policies.
 
-Policy reference:  
-https://www.bath.ac.uk/legal-information/information-security-policy/
+We do **not** store any sensitive, personal, or confidential research data in public repositories.  
+All public code is safe to share and contains no restricted materials.
+
+University policy index:  
+https://www.bath.ac.uk/corporate-information/university-policy-index/ 
 
 ---
 
