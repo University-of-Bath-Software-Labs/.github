@@ -94,6 +94,6 @@ https://www.bath.ac.uk/corporate-information/university-policy-index/
 ---
 
 <p align="center">
-Thank you for visiting the University of Bath – Electronics & Software Labs GitHub organisation.
+Thank you for visiting the University of Bath – Electronics & Software Labs GitHub Organisation.
 </p>
 
