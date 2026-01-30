@@ -53,7 +53,7 @@ Students and researchers **are welcome to download any public code** that is use
 If you need:
 
 - a **custom DAQ program**,  
-- help with **LabVIEW or Python**,  
+- help with **LabVIEW, Python, or another software related issue**,  
 - advice on **instrumentation or automation**, or  
 - support with an experimental setup,
 
